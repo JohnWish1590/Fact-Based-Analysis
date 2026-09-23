@@ -64,6 +64,7 @@ git -C ~/.codex/skills/stock-truth-analysis pull
 .
 ├── SKILL.md
 ├── README.md
+├── CHANGELOG.md
 └── agents/
     └── openai.yaml
 ```
@@ -83,3 +84,7 @@ $stock-truth-analysis 从当前市值反推市场隐含预期，并列出能推�
 ```
 
 本技能提供研究流程，不替代实时核实。分析中的市场价格和披露会随时间变化，每次使用都应重新检索并注明数据日期和来源。
+
+## 更新日志
+
+本技能的变更记录见 [CHANGELOG.md](CHANGELOG.md)（按时间倒序）。

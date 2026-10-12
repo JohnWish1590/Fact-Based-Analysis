@@ -1,6 +1,6 @@
 ---
 name: stock-truth-analysis
-description: Analyze a listed company or investment opportunity with the 求真分析 2.0 framework: falsify first, form an independent judgment, derive every valuation price from explicit assumptions, and finish with an actionable decision.
+description: "Analyze a listed company or investment opportunity with the 求真分析 2.0 framework: falsify first, form an independent judgment, derive every valuation price from explicit assumptions, and finish with an actionable decision."
 ---
 
 # 求真分析 2.0

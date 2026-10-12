@@ -1,6 +1,6 @@
 interface:
-  display_name: "股票求真分析"
-  short_description: "Industry-aware financial evidence and valuation analysis"
-  default_prompt: "Use $stock-truth-analysis to analyze this listed company and create an HTML report."
+  display_name: "股票求真分析 2.0"
+  short_description: "Independent, decision-oriented listed-company valuation analysis"
+  default_prompt: "Use $stock-truth-analysis 2.0 to analyze this listed company, reverse-derive every valuation price, and give a clear investment decision."
 policy:
   allow_implicit_invocation: true
